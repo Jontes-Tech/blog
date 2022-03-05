@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Jontes Blog</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on Jontes Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>/p/hugo/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/p/hugo/</guid>
+      <description>Click &amp;ldquo;Quick Start&amp;rdquo; on the image bellow for installation instructions
+ Then open a terminal and run hugo new site sitename This will create a new folder with Hugo.
+Downloading a theme Now we will download a theme. This can be done here. Follow the installation guide for the theme you want.
+Previewing the site Run hugo server and browse to http://localhost:1313 to preview it.
+Customizing the config.yml Edit the file config.</description>
+    </item>
+    
+  </channel>
+</rss>

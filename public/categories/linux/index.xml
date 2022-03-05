@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Jontes Blog</title>
+    <link>/categories/linux/</link>
+    <description>Recent content in Linux on Jontes Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Under A Minute</title>
+      <link>/p/linux-under-a-minute/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/p/linux-under-a-minute/</guid>
+      <description>Watch Short on YouTube</description>
+    </item>
+    
+  </channel>
+</rss>

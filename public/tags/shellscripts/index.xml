@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shellscripts on Jontes Blog</title>
+    <link>/tags/shellscripts/</link>
+    <description>Recent content in shellscripts on Jontes Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/shellscripts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t Actually reboot</title>
+      <link>/p/dont-actually-reboot/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/p/dont-actually-reboot/</guid>
+      <description>So basically I made this utility that asks you if you want to reboot if you run &amp;ldquo;sudo reboot&amp;rdquo; instead of doing it right away. You can install it using bash -c &amp;quot;$(curl -fsSL https://go.jontes.page/dar.sh)&amp;quot;
+You may also use the bleeding edge with https://go.jontes.page/testdar.sh, but I strongly advice against it. It&amp;rsquo;s full of bugs.
+Github: https://github.com/Jontes-Tech/dont-actually-reboot</description>
+    </item>
+    
+  </channel>
+</rss>

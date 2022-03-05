@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Jontes Blog</title>
+        <link>/</link>
+        <description>Recent content on Jontes Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Let&#39;s install Windows 10 in Virtualbox!</title>
+        <link>/p/lets-install-windows-10-in-virtualbox/</link>
+        <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/p/lets-install-windows-10-in-virtualbox/</guid>
+        <description>&lt;img src="/p/lets-install-windows-10-in-virtualbox/VirtualWin.webp" alt="Featured image of post Let&#39;s install Windows 10 in Virtualbox!" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@Jontes.Tech:d/win-vm:8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Watch Video on Odysee&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hugo</title>
+        <link>/p/hugo/</link>
+        <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/p/hugo/</guid>
+        <description>&lt;img src="https://miro.medium.com/max/800/1*pmGU0b6wcseB9nPwZb33ng.jpeg" alt="Featured image of post Hugo" /&gt;&lt;p&gt;Click &amp;ldquo;Quick Start&amp;rdquo; on the image bellow for installation instructions&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;/p/hugo/GoHugo.IO.png&#34;
+	width=&#34;1025&#34;
+	height=&#34;576&#34;
+	srcset=&#34;/p/hugo/GoHugo.IO_hu66c0b3cd40f61050caa65ea6d53d0fb4_80099_480x0_resize_box_3.png 480w, /p/hugo/GoHugo.IO_hu66c0b3cd40f61050caa65ea6d53d0fb4_80099_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GoHugo.io Website&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/a&gt;
+Then open a terminal and run &lt;code&gt;hugo new site sitename&lt;/code&gt;
+This will create a new folder with Hugo.&lt;/p&gt;
+&lt;h2 id=&#34;downloading-a-theme&#34;&gt;Downloading a theme&lt;/h2&gt;
+&lt;p&gt;Now we will download a theme. This can be done &lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;. Follow the installation guide for the theme you want.&lt;/p&gt;
+&lt;h2 id=&#34;previewing-the-site&#34;&gt;Previewing the site&lt;/h2&gt;
+&lt;p&gt;Run &lt;code&gt;hugo server&lt;/code&gt; and browse to &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://localhost:1313&lt;/a&gt; to preview it.&lt;/p&gt;
+&lt;h2 id=&#34;customizing-the-configyml&#34;&gt;Customizing the config.yml&lt;/h2&gt;
+&lt;p&gt;Edit the file &lt;code&gt;config.yaml&lt;/code&gt; to your preference.&lt;/p&gt;
+&lt;h2 id=&#34;adding-own-articles&#34;&gt;Adding own articles.&lt;/h2&gt;
+&lt;p&gt;In the /content folder there &lt;em&gt;should&lt;/em&gt; be a folder called &lt;code&gt;post&lt;/code&gt; or &lt;code&gt;posts&lt;/code&gt; or something similar. If not follow the intructions for the theme you use on how to create on. Now create the file with the name you want in your URL bar for the article (This one is &amp;ldquo;hugo&amp;rdquo;) with the file extention &amp;ldquo;.md&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;I like to use Netlify to host websites for free, click &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-netlify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Linux Under A Minute</title>
+        <link>/p/linux-under-a-minute/</link>
+        <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/p/linux-under-a-minute/</guid>
+        <description>&lt;img src="/p/linux-under-a-minute/etcher.webp" alt="Featured image of post Linux Under A Minute" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=__YyFBRvj3o&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Watch Short on YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Don&#39;t Actually reboot</title>
+        <link>/p/dont-actually-reboot/</link>
+        <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/p/dont-actually-reboot/</guid>
+        <description>&lt;img src="/p/dont-actually-reboot/light.webp" alt="Featured image of post Don&#39;t Actually reboot" /&gt;&lt;p&gt;So basically I made this utility that asks you if you want to reboot if you run &amp;ldquo;sudo reboot&amp;rdquo; instead of doing it right away. You can install it using
+&lt;code&gt;bash -c &amp;quot;$(curl -fsSL https://go.jontes.page/dar.sh)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You may also use the bleeding edge with &lt;a class=&#34;link&#34; href=&#34;https://go.jontes.page/testdar.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://go.jontes.page/testdar.sh&lt;/a&gt;, but I strongly advice against it. It&amp;rsquo;s full of bugs.&lt;/p&gt;
+&lt;p&gt;Github: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Jontes-Tech/dont-actually-reboot&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Jontes-Tech/dont-actually-reboot&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Birdbox 2021</title>
+        <link>/p/birdbox-2021/</link>
+        <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>/p/birdbox-2021/</guid>
+        <description>&lt;img src="/p/birdbox-2021/IMG1.webp" alt="Featured image of post Birdbox 2021" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=8ucla9r3Ufs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Watch YouTube Video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I wanted to try doing a Raspberry Pi project, so I got myself a Raspberry Pi Zero W (but Pi Zero 2 is better for this), a NOIR camera, a Bright Pi, a power bank, and a power cable. And then I put it all together, put my 16GB memory card into my computer, and installed Motion Eye OS following this guide:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.arrow.com/en/research-and-events/articles/motioneyeos-camera-setup-on-raspberry-pi-zero-w&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Guide by Arrow.com&lt;/a&gt;
+After following that guide, just put your Raspberry Pi in a birdbox and you&amp;rsquo;re all set. We ended up not using the IR lighting, because we got enough light from the little entrence, but I&amp;rsquo;m glad we had the option. I think this was a fun project, but at the time the Raspi Zero 2 W didn&amp;rsquo;t exist, but it would signicantly improve the quality of the video as well as the framerate.&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/ccrisan/motioneyeos/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MotionEyeOS&lt;/a&gt;&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.balena.io/etcher&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Balena Etcher&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
