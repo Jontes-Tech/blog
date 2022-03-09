@@ -43,7 +43,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: https://jontes.page/img/apple-touch-icon.png
+            src: /img/apple-touch-icon.png
 
     article:
         math: false
@@ -57,84 +57,8 @@ params:
         enabled: false
         provider: disqus
 
-#        disqusjs:
-#            shortname:
-#            apiUrl: https://disqus.com/api/oauth/2.0/authorize/
-#            apiKey: 24209X1KVSOBarmGU9N0Z81DxINhGOFNVyOZ37WpypfrWkMVeVOR6BWiGMU9kqqG
-#            admin:
-#            adminLabel:
-
-        utterances:
-            repo:
-            issueTerm: pathname
-            label:
-
-        remark42:
-            host:
-            site:
-            locale:
-
-        vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-            autoCreateIssue: false
-
-        # Waline client configuration see: https://waline.js.org/en/reference/client.html
-        waline:
-            serverURL:
-            lang:
-            visitor:
-            avatar:
-            emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
-            requiredMeta:
-                - name
-                - email
-                - url
-            placeholder:
-            locale:
-                admin: Admin
-
-        twikoo:
-            envId:
-            region:
-            path:
-            lang:
-
-        # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
-        cactus:
-            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-            serverName: "cactus.chat"
-            siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
-
-        giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
-            lightTheme:
-            darkTheme:
-            reactionsEnabled: 1
-            emitMetadata: 0
-
-        gitalk:
-            owner:
-            admin:
-            repo:
-            clientID:
-            clientSecret:
-
-        cusdis:
-            host:
-            id:
     widgets:
         enabled:
-            - search
-            - archives
             - tag-cloud
 
         archives:
