@@ -9,7 +9,7 @@ categories = [
 tags = [
     "hugo",
 ]
-image = "https://miro.medium.com/max/800/1*pmGU0b6wcseB9nPwZb33ng.jpeg"
+image = "hugo.webp"
 +++
 Click "Quick Start" on the image bellow for installation instructions  
 [![GoHugo.io Website](GoHugo.IO.png)](https://gohugo.io/getting-started/quick-start/)
