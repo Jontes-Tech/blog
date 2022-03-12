@@ -1,14 +1,8 @@
 +++
 author = "Jonatan Holmgren"
-title = "Hugo"
+title = "HUGO SSG"
 date = "2022-02-06"
 description = "Getting started with HUGO"
-categories = [
-    "Websites"
-]
-tags = [
-    "hugo",
-]
 image = "hugo.webp"
 +++
 Click "Quick Start" on the image bellow for installation instructions  
