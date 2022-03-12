@@ -3,7 +3,6 @@ author = "Jonatan Holmgren"
 title = "HUGO SSG"
 date = "2022-02-06"
 description = "Getting started with HUGO"
-image = "hugo.webp"
 +++
 Click "Quick Start" on the image bellow for installation instructions  
 [![GoHugo.io Website](GoHugo.IO.png)](https://gohugo.io/getting-started/quick-start/)

@@ -9,6 +9,6 @@ categories = [
 tags = [
     "virtualbox.",
 ]
-image = "VirtualWin.webp"
 +++
+![Virtualbox Image](VirtualWin.webp)
 [Watch Video on Odysee](https://odysee.com/@Jontes.Tech:d/win-vm:8)

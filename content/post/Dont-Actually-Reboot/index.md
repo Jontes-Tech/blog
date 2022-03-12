@@ -9,8 +9,8 @@ categories = [
 tags = [
     "shellscripts",
 ]
-image = "light.webp"
 +++
+![Github Screenshot](light.webp)
 So basically I made this utility that asks you if you want to reboot if you run "sudo reboot" instead of doing it right away. You can install it using
 `bash -c "$(curl -fsSL https://go.jontes.page/dar.sh)"`
 
