@@ -9,6 +9,6 @@ categories = [
 tags = [
     "linux",
 ]
+cover = "etcher.webp"
 +++
-![Balena Etcher](etcher.webp)
 [Watch Short on YouTube](https://www.youtube.com/watch?v=__YyFBRvj3o)

@@ -3,6 +3,7 @@ author = "Jonatan Holmgren"
 title = "Birdbox 2021"
 date = "2021-09-07"
 description = "How to build a Livestreaming Birdbox, I guess"
+cover = "IMG1.webp"
 categories = [
     "Birdbox"
 ]
@@ -10,7 +11,6 @@ tags = [
     "birdbox",
 ]
 +++
-![Birdbox image](IMG1.webp)
 
 [Watch YouTube Video](https://www.youtube.com/watch?v=8ucla9r3Ufs)
 
