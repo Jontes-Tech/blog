@@ -7,7 +7,7 @@ categories = [
     "special-posts"
 ]
 tags = [
-    "arch",
+    "piday",
 ]
 +++
 # The letter π
