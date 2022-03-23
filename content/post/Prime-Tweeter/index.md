@@ -7,6 +7,9 @@ description = "I recently started tweeting prime numbers. Fun."
 ## What?!
 You hear me right, I tweet every hour the next prime number.
 
+## Where?
+[Here](https://twitter.com/JontesTweets)
+
 ## The Python script!
 ```python
 import tweepy as tp
