@@ -59,7 +59,7 @@ Now click "Create a VM" and follow the wisard. You can duplicate these VMs to cr
 ## How about the GPU passthrough you promised?
 [This amazing video by TechnoTim](https://www.youtube.com/watch?v=fgx3NMk6F54) shows how to create this.
 
-## Summery
+## Summary
 I love Proxmox, and I think you will too! This is a really fun project to give a go!
 
 If this helped you, please share my blog with your friends and colleagues, as I would greatly appriciate that.
