@@ -11,7 +11,10 @@ tags = [
     "birdbox",
 ]
 +++
-This year we're going with the Reolink RLC-410W as our main camera, connected with Wifi and to the power grid. We hope that this means this will be a 0 maintenance operation, but I think I just jinxed it. I made a sketch in Blender, but we will also add 2 holes for the antennas to go through. I'll update this post as the project gets more work.
+This year we're going with the Reolink RLC-410W as our main camera, connected with Wifi and to the power grid. We hope that this means this will be a 0 maintenance operation, but I think I just jinxed it. Here's a picture of the birdbox from the building process:
+![image of birdbox](1.webp)
+As you probably see the antennas are rather big, that's why we decided to make holes like this:
+![image of birdbox](2.webp)
 
 Bye for now.
 Jonte.
