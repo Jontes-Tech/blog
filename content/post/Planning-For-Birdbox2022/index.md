@@ -11,6 +11,9 @@ tags = [
     "birdbox",
 ]
 +++
+# OUTDATED POST
+Latest Birdbox article is [here](../birdbox2022)
+
 ![Render from Blender](render.png)
 This year we're going with the Reolink RLC-410W as our main camera, connected with Wifi and to the power grid. We hope that this means this will be a 0 maintenance operation, but I think I just jinxed it. Here's a picture of the birdbox from the building process:
 ![image of birdbox](1.webp)

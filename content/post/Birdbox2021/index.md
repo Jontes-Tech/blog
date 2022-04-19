@@ -12,6 +12,9 @@ tags = [
 ]
 +++
 
+# OUTDATED POST
+Latest Birdbox article is [here](../birdbox2022)
+
 [Watch YouTube Video](https://www.youtube.com/watch?v=8ucla9r3Ufs)
 
 I wanted to try doing a Raspberry Pi project, so I got myself a Raspberry Pi Zero W (but Pi Zero 2 is better for this), a NOIR camera, a Bright Pi, a power bank, and a power cable. And then I put it all together, put my 16GB memory card into my computer, and installed Motion Eye OS following this guide:
