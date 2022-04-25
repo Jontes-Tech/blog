@@ -10,7 +10,7 @@ tags = [
     "linux",
 ]
 +++
-## Instaling VSCode
+## Installing VSCode
 Installing VSCode is really easy. Either download from your software center, or via [code.visualstudio.com](https://code.visualstudio.com). Then start the program. It should look something like this.
 ![Screenshot of Visual Studio Code](1.webp)
 ## Writing the first program
