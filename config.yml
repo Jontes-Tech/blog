@@ -1,4 +1,4 @@
-baseUrl: https://jontes.page
+baseUrl: https://blog.jontes.page
 languageCode: en-us
 theme: ["hugo-video", "terminal"]
 paginate: 5
