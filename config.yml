@@ -1,6 +1,6 @@
-baseUrl: /
+baseUrl: https://jontes.page
 languageCode: en-us
-theme: terminal
+theme: ["hugo-video", "terminal"]
 paginate: 5
 
 params:
