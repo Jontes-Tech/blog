@@ -4,32 +4,32 @@ on:
   push:
     branches:
       - "master"
-
-zip-files:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-      with:
-          submodules: true
-          fetch-depth: 0
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-          hugo-version: 'latest'
-    - name: Clean public directory
-      run: rm -rf public
-    - name: Build
-      run: hugo --minify
-    - uses: actions/checkout@v2
-    - uses: vimtor/action-zip@v1
-      with:
-        files: ./public/
-        dest: result.zip
-    - name: Deploy Stage
-      uses: fjogeleit/http-request-action@master
-      with:
-        url: "https://signal.lvksh.cloud/deployments/push?site=65820895066722304"
-        method: "PUT"
-        bearerToken: ${{ secrets.SIGNAL_TOKEN }}
-        files: '{ "data": "${{ github.workspace }}/result.zip" }'
+jobs:
+  zip-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+            submodules: true
+            fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+            hugo-version: 'latest'
+      - name: Clean public directory
+        run: rm -rf public
+      - name: Build
+        run: hugo --minify
+      - uses: actions/checkout@v2
+      - uses: vimtor/action-zip@v1
+        with:
+          files: ./public/
+          dest: result.zip
+      - name: Deploy Stage
+        uses: fjogeleit/http-request-action@master
+        with:
+          url: "https://signal.lvksh.cloud/deployments/push?site=65820895066722304"
+          method: "PUT"
+          bearerToken: ${{ secrets.SIGNAL_TOKEN }}
+          files: '{ "data": "${{ github.workspace }}/result.zip" }'
