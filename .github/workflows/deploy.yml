@@ -3,7 +3,7 @@ name: Deploy to Edgeserver.io
 on:
   push:
     branches:
-      - "master"
+      - "main"
 jobs:
   zip-files:
     runs-on: ubuntu-latest
