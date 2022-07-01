@@ -1,0 +1,28 @@
+name: Deploy to Edgeserver.io
+
+on:
+  push:
+    branches:
+      - "master"
+
+jobs:
+  zipfiles:
+    runs-on: ubuntu-latest
+    steps:
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.93.3'
+          extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Edgeserver Upload
+        uses: lvkdotsh/edgeserver-action@v0.0.31
+        with:
+          app_id: "65820895066722304"
+          server: https://signal.lvksh.cloud
+          token: ${{ secrets.SIGNAL_TOKEN }}
+          directory: public
