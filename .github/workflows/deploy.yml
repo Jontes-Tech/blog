@@ -22,14 +22,10 @@ jobs:
       - name: Build
         run: hugo --minify
       - uses: actions/checkout@v2
-      - uses: vimtor/action-zip@v1
+      - name: Edgeserver Upload
+        uses: lvkdotsh/edgeserver-action@v0.0.34
         with:
-          files: ./public/
-          dest: result.zip
-      - name: Deploy Stage
-        uses: fjogeleit/http-request-action@master
-        with:
-          url: "https://signal.lvksh.cloud/deployments/push?site=65820895066722304"
-          method: "PUT"
-          bearerToken: ${{ secrets.SIGNAL_TOKEN }}
-          files: '{ "data": "${{ github.workspace }}/result.zip" }'
+          app_id: "65820895066722304"
+          server: https://api.edgeserver.io
+          token: ${{ secrets.SIGNAL_TOKEN }}
+          directory: public
