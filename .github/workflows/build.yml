@@ -6,7 +6,7 @@ on:
       - "master"
 
 jobs:
-  zip-files:
+  zipfiles:
     runs-on: ubuntu-latest
     steps:
         with:
