@@ -16,6 +16,9 @@ params:
   fullWidthTheme: false
   # center theme with default width
   centerTheme: true
+  twitter:
+      creator: Jonte
+      site: Jonte's Page
 
 languages:
   en:
