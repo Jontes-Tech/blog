@@ -16,10 +16,6 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --minify --buildDrafts
-      - name: Clean public directory
-        run: rm -rf public
-      - name: Build
-        run: hugo --minify
       - name: Edgeserver Upload
         uses: lvkdotsh/edgeserver-action@v0.0.34
         with:
