@@ -54,4 +54,4 @@ Great job! Now you got Linux fired up on your system. Now, install your stuff, a
 
 You can obviously make yours do what you need and look how you want it to, and that's what we love about it. Look up tutorials, wiki's, just have fun learning. And don't forget, happy Linuxing!
 
-Co-authored by [Jonte](https://jontes.page)
+Co-authored by [Avunit](https://avunit.tk)
