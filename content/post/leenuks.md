@@ -39,6 +39,7 @@ Now, get ready to say bye bye to your current OS, since Dualbooting is far out o
 > Toshiba: F2  
 
 When you're in BIOS, head to boot order and put your USB Drive on number 1 priority. 
+Also disable secure boot, since most distros (and Nvidia drivers) will fail to boot with it on.
 Save changes and reboot. Your computer will now boot to Linux 🥳
 
 At this stage, before installing, make sure all your hardware and software work with Linux properly, if not, try to find a workaround on the interwebs.
